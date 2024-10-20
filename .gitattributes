@@ -1,1 +1,4 @@
 *.dart text
+*.cpp text
+*.h text
+*.cmake text
