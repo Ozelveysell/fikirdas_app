@@ -1,6 +1,1 @@
-# Specify that .dart files are text files
 *.dart text
-
-# You can also specify other settings as needed
-*.md text
-*.json text
